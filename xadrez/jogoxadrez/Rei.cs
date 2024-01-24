@@ -1,7 +1,7 @@
 ﻿using jogoxadrez;
 using tabuleiro;
 
-namespace xadrez
+namespace jogoxadrez
 {
     class Rei : Peca
     {

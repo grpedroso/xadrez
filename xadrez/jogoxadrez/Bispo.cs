@@ -1,6 +1,6 @@
 ﻿using tabuleiro;
 
-namespace xadrez
+namespace jogoxadrez
 {
 
     class Bispo : Peca
