@@ -21,7 +21,7 @@ namespace tabuleiro
             this.cor = cor;
             this.qteMovimentos = 0;
         }
-        public bool podeMoverPara(Posicao pos) 
+        public bool movimentoPossivel(Posicao pos) 
         {
             return movimentosPossiveis()[pos.linha, pos.coluna];
         }
